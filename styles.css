@@ -1,0 +1,56 @@
+body {
+    background-color: lavender;
+}
+
+.header {
+    color: #331956;
+    text-align: center;
+    font-size: 30px;   
+}
+
+img {
+    height: 425px;
+    width: 325px;
+    border: 20px solid floralwhite;
+}
+
+.intro-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
+
+h4 {
+    text-align: center;
+    
+}
+
+.table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+p {
+    text-align: center;
+    padding: 10px 80px 10px 80px
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.list {
+    text-align: center;
+    
+}
+
+.contact {
+    list-style-type: none;
+}
